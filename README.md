@@ -1,1 +1,0 @@
-This is a repository where I make a model that predicts which song on Spotify the concerned user is likely to add to their playlist.
