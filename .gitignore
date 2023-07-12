@@ -1,5 +1,7 @@
 old/*
 spotify_env/*
+.ipynb_checkpoints/*
+
 
 *.zip
 *.csv
